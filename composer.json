@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/gpenref-relaunch",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "reintanz",
+      "email": "reintanz@comenius.de"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "10.4.2"
+  }
+}
