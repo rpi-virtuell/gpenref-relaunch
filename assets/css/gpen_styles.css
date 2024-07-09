@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Blog Script W05 Regular";
+    src: url('../blog-script-regular.woff') ;
+}
+
+.gpen-banner-places .gpen-places-number {
+    font-family: "Blog Script W05 Regular", serif;
+    font-size: 6vw;
+
+}
+
+.gpen-banner-places .gpen-places-text {
+    font-family: 'Merriweather', Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 1vw;
+}
+
+.gpen-frontpage-map {
+    position: relative;
+}
+
+.gpen-frontpage-map .gpen-banner-image {
+    width: 100%;
+}
+
+.gpen-frontpage-map .gpen-banner-places{
+    color: white;
+    position: absolute;
+    bottom: 29%;
+    right: 3%;
+    display: flex;
+    align-items: center;
+    height: 125px;
+    width: 400px;
+}
+.gpen-frontpage-map .gpen-banner-logo{
+    max-width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.gpen-frontpage-map .gpen-banner-places div {
+    margin: 5px;
+}
