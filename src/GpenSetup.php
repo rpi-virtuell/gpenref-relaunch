@@ -1,6 +1,6 @@
 <?php
-
-class Gpen_Setup {
+namespace GPEN;
+class GpenSetup {
 
 	function __construct() {
 
